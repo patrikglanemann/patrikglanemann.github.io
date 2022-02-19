@@ -1,0 +1,25 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+  background-color: rgba(81, 81, 81, 0.75);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--color-primary-text);
+  padding: 2em 10em 0 6em;
+}
+
+.Header__quote {
+  letter-spacing: 5px;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.Header__navBar {
+  display: flex;
+  gap: 2rem;
+}
+
+.Header__navBar > h2 {
+  letter-spacing: 3px;
+  font-weight: normal;
+}
