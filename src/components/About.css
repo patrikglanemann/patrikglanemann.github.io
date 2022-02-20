@@ -2,8 +2,8 @@
   display: flex;
   flex-flow: column;
   align-items: center;
-  color: var(--color-secondary-text);
-  margin: 5rem 1rem 0 1rem;
+  color: var(--color-primary-text);
+  margin: 10rem 1rem 0 1rem;
 }
 
 .About__title {

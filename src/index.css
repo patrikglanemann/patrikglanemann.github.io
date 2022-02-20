@@ -8,8 +8,8 @@
 }
 
 :root {
-  --color-primary-text: #ffffff;
-  --color-secondary-text: #473f3f;
+  --color-side-text: #ffffff;
+  --color-primary-text: #473f3f;
 }
 
 body {
