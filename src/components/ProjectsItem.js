@@ -1,3 +1,5 @@
+import './Projects.css';
+
 export default function ProjectsItem({
   title,
   description,
@@ -7,19 +9,25 @@ export default function ProjectsItem({
   image,
 }) {
   return (
-    <>
+    <div className='Project'>
       <div>
         <a href={liveDemo}>
-          <img src={image} alt='IMAGE'></img>
+          <img className='Project__image' src={image} alt='IMAGE'></img>
         </a>
       </div>
-      <div>
-        <h3>{title}</h3>
+      <div className='Project__info'>
+        <h3 className='Project__title'>{title}</h3>
         <p>{description}</p>
-        <p>{tech}</p>
-        <a>{gitHub}</a>
-        <a>{liveDemo}</a>
+        <ul className='Project__tech'>
+          {tech.map((item) => {
+            return <li>{item} / </li>;
+          })}
+        </ul>
+        <div className='Project__links'>
+          <a href={gitHub}>GitHub</a>
+          <a href={liveDemo}>Live Demo</a>
+        </div>
       </div>
-    </>
+    </div>
   );
 }
