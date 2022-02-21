@@ -5,8 +5,9 @@ export default function Header() {
     <header className='Header'>
       <h2 className='Header__quote'>"Strive for progress, not perfection."</h2>
       <nav className='Header__navBar'>
-        <h2>Projects</h2>
-        <h2>Contact</h2>
+        <a href='#projects'>
+          <h2>Projects</h2>
+        </a>
       </nav>
     </header>
   );
