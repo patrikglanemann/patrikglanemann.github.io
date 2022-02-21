@@ -25,13 +25,12 @@
 }
 
 .Project {
-  max-width: 420px;
+  max-width: 500px;
   min-width: 300px;
   margin: 0 2rem 2rem 0;
 }
 
 .Project__image {
-  max-height: 240px;
   width: 100%;
 }
 
