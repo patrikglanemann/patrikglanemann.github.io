@@ -6,7 +6,7 @@ import RickAndMorty from '../assets/webApps/RickAndMorty.png';
 
 export const webApps = [
   {
-    id: '01',
+    id: '1001',
     title: 'readyevent (Teamproject)',
     description:
       'An event planer App for groups with Google Calendar integration.',
@@ -22,7 +22,7 @@ export const webApps = [
     image: readyevent,
   },
   {
-    id: '02',
+    id: '1002',
     title: 'Sudokus and Dragons',
     description:
       'Sudoku with a room slection for difficulty and a highscore list.',
@@ -32,7 +32,7 @@ export const webApps = [
     image: SudokusAndDragons,
   },
   {
-    id: '03',
+    id: '1003',
     title: 'Quiz App',
     description: 'Add your own questions and bookmark your favorite ones.',
     tech: ['Vanilla JavaScript', 'Local Storage', 'HTML', 'CSS'],
@@ -41,9 +41,9 @@ export const webApps = [
     image: QuizApp,
   },
   {
-    id: '04',
+    id: '1004',
     title: 'MTG Card Search',
-    description: 'A sinmple card search for Magic the Gathering.',
+    description: 'A simple card search for Magic the Gathering.',
     tech: ['ReactJS', 'Local Storage', 'CSS', 'MtG API'],
     gitHub:
       'https://github.com/patrikglanemann/MTG-react-app/tree/work_branch/',
@@ -51,7 +51,7 @@ export const webApps = [
     image: MTGCardSearch,
   },
   {
-    id: '05',
+    id: '1005',
     title: 'Rick and Morty character search',
     description: 'Search and filter characters from Rick and Morty.',
     tech: ['ReactJS', 'CSS', 'Local Storage', 'RickAndMorty API'],
