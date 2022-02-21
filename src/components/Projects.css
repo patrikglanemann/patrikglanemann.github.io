@@ -19,9 +19,10 @@
   margin-bottom: 2rem;
 }
 
-.Projects__webApps {
+.Projects__container {
   display: flex;
   flex-flow: row wrap;
+  margin-bottom: 10rem;
 }
 
 .Project {
@@ -47,13 +48,16 @@
 
 .Project__tech {
   list-style-type: none;
-  margin-bottom: 5px;
 }
 
 .Project__tech li {
   display: inline-block;
   font-size: 0.8rem;
   margin-right: 0.5rem;
+}
+
+.Project__links {
+  margin-top: 5px;
 }
 
 .Project__links a {
