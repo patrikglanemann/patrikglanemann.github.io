@@ -16,6 +16,29 @@ export default function About() {
           in Unity.
         </p>
       </div>
+      <div className='About__icons'>
+        <a href='https://github.com/patrikglanemann'>
+          <img
+            className='icon'
+            src='https://www.vectorlogo.zone/logos/github/github-tile.svg'
+            alt='GitHub'
+          />
+        </a>
+        <a href='https://www.xing.com/profile/Patrik_Glanemann/cv'>
+          <img
+            className='icon'
+            src='https://www.vectorlogo.zone/logos/xing/xing-tile.svg'
+            alt='Xing'
+          />
+        </a>
+        <a href='https://instagram.com/johnzerorezt'>
+          <img
+            className='icon'
+            src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg'
+            alt='Instagram'
+          />
+        </a>
+      </div>
     </section>
   );
 }

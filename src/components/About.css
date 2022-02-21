@@ -24,3 +24,13 @@ p {
 .About p {
   margin-bottom: 0.5rem;
 }
+
+.About__icons {
+  display: flex;
+  gap: 5rem;
+  margin-top: 5rem;
+}
+
+.icon {
+  width: 40px;
+}

@@ -24,8 +24,8 @@ export default function ProjectsItem({
         <p>{description}</p>
         {tech ? (
           <ul className='Project__tech'>
-            {tech.map((item) => {
-              return <li>{item} / </li>;
+            {tech.map((item, index) => {
+              return <li key={index}>{item} / </li>;
             })}
           </ul>
         ) : (
