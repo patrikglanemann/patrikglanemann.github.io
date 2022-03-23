@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolioWebpage/static/css/main.602afa62.css",
-    "main.js": "/portfolioWebpage/static/js/main.7425edf8.js",
-    "static/js/787.80ebfbae.chunk.js": "/portfolioWebpage/static/js/787.80ebfbae.chunk.js",
-    "static/media/RickAndMorty.png": "/portfolioWebpage/static/media/RickAndMorty.560be095913b62a0708b.png",
-    "static/media/MTGCardSearch.png": "/portfolioWebpage/static/media/MTGCardSearch.15e5944203c2481ad6b4.png",
-    "static/media/readyevent.png": "/portfolioWebpage/static/media/readyevent.4c14cec1a8f7ffc4e3d8.png",
-    "static/media/SudokusAndDragons.png": "/portfolioWebpage/static/media/SudokusAndDragons.5da324dacbf749c8e3b4.png",
-    "static/media/Miwok.jpg": "/portfolioWebpage/static/media/Miwok.e3f526999d828cf5277a.jpg",
-    "static/media/CourtCounter.jpg": "/portfolioWebpage/static/media/CourtCounter.5a3fbf348b4bfa36e93b.jpg",
-    "static/media/JustJava.jpg": "/portfolioWebpage/static/media/JustJava.316d2285d4217a18e7bb.jpg",
-    "static/media/QuizApp.png": "/portfolioWebpage/static/media/QuizApp.5c9e50c1be935306b20d.png",
-    "index.html": "/portfolioWebpage/index.html",
-    "main.602afa62.css.map": "/portfolioWebpage/static/css/main.602afa62.css.map",
-    "main.7425edf8.js.map": "/portfolioWebpage/static/js/main.7425edf8.js.map",
-    "787.80ebfbae.chunk.js.map": "/portfolioWebpage/static/js/787.80ebfbae.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.602afa62.css",
+    "main.js": "/portfolio/static/js/main.c4aa3615.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/RickAndMorty.png": "/portfolio/static/media/RickAndMorty.560be095913b62a0708b.png",
+    "static/media/MTGCardSearch.png": "/portfolio/static/media/MTGCardSearch.15e5944203c2481ad6b4.png",
+    "static/media/readyevent.png": "/portfolio/static/media/readyevent.4c14cec1a8f7ffc4e3d8.png",
+    "static/media/SudokusAndDragons.png": "/portfolio/static/media/SudokusAndDragons.5da324dacbf749c8e3b4.png",
+    "static/media/Miwok.jpg": "/portfolio/static/media/Miwok.e3f526999d828cf5277a.jpg",
+    "static/media/BudgetExpensesApp.png": "/portfolio/static/media/BudgetExpensesApp.f9afb056439425cca449.png",
+    "static/media/CourtCounter.jpg": "/portfolio/static/media/CourtCounter.5a3fbf348b4bfa36e93b.jpg",
+    "static/media/JustJava.jpg": "/portfolio/static/media/JustJava.316d2285d4217a18e7bb.jpg",
+    "static/media/QuizApp.png": "/portfolio/static/media/QuizApp.5c9e50c1be935306b20d.png",
+    "index.html": "/portfolio/index.html",
+    "main.602afa62.css.map": "/portfolio/static/css/main.602afa62.css.map",
+    "main.c4aa3615.js.map": "/portfolio/static/js/main.c4aa3615.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.602afa62.css",
-    "static/js/main.7425edf8.js"
+    "static/js/main.c4aa3615.js"
   ]
 }
