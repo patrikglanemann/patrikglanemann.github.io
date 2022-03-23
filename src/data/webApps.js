@@ -1,5 +1,6 @@
 import readyevent from "../assets/webApps/readyevent.png";
 import SudokusAndDragons from "../assets/webApps/SudokusAndDragons.png";
+import BudgetExpenses from "../assets/webApps/BudgetExpensesApp.png";
 import QuizApp from "../assets/webApps/QuizApp.png";
 import MTGCardSearch from "../assets/webApps/MTGCardSearch.png";
 import RickAndMorty from "../assets/webApps/RickAndMorty.png";
@@ -33,6 +34,21 @@ export const webApps = [
   },
   {
     id: "1003",
+    title: "Budget and Expenses App",
+    description: "Manage your budget and add expenses to different categories.",
+    tech: [
+      "ReactJS",
+      "Bootstrap",
+      "React-Bootstrap",
+      "React Context API",
+      "Local Storage",
+    ],
+    gitHub: "https://github.com/patrikglanemann/Budget-Expenses-App",
+    liveDemo: "https://budget-expenses-app.vercel.app/",
+    image: BudgetExpenses,
+  },
+  {
+    id: "1004",
     title: "Quiz App",
     description: "Add your own questions and bookmark your favorite ones.",
     tech: ["Vanilla JavaScript", "Local Storage", "HTML", "CSS"],
@@ -41,7 +57,7 @@ export const webApps = [
     image: QuizApp,
   },
   {
-    id: "1004",
+    id: "1005",
     title: "MTG Card Search",
     description: "A simple card search for Magic the Gathering.",
     tech: ["ReactJS", "Local Storage", "CSS", "MtG API"],
@@ -51,7 +67,7 @@ export const webApps = [
     image: MTGCardSearch,
   },
   {
-    id: "1005",
+    id: "1006",
     title: "Rick and Morty character search",
     description: "Search and filter characters from Rick and Morty.",
     tech: ["ReactJS", "CSS", "Local Storage", "RickAndMorty API"],
