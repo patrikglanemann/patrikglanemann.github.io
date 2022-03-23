@@ -1,6 +1,6 @@
 {
   "homepage": "https://patrikglanemann.github.io/portfolio",
-  "name": "portfolioWebpage",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
